@@ -1,0 +1,3 @@
+<?php
+    $environment = "prod";
+?>
